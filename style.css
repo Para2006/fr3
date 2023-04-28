@@ -1,0 +1,23 @@
+body{
+    color:rgb(3, 45, 58);
+    background: rgb(152, 231, 210);
+}
+
+.heading {
+    width:60%;
+    font-size : 24px;
+}
+
+.name_of_faces {
+    color: goldenrod;
+}
+#camera {
+    border:  2px dashed black;
+    width:350px;
+    height : 300px ;
+}
+ 
+#result_face_name , #result_face_accuracy {
+    color:black; 
+
+}
